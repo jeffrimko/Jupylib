@@ -1,0 +1,4 @@
+= Jupylib
+
+== Introduction
+This project provides a Python 2.7/3.3+ library of convenience functions for working with Jupylib notebooks.
